@@ -1,0 +1,26 @@
+# Backups
+*.bak
+*.bak-*
+
+# Research artifacts: extracted third-party payload and decompiled output
+research/
+
+# Temporary test output
+*.out.txt
+test-*.txt
+
+# Binaries and archives
+*.exe
+*.dll
+*.msi
+*.7z
+*.zip
+
+# Logs
+*.log
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
